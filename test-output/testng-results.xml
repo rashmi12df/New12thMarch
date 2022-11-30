@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-26T12:49:29 IST" name="Default suite" finished-at="2022-10-26T12:51:09 IST" duration-ms="100052">
+    <groups>
+    </groups>
+    <test started-at="2022-10-26T12:49:29 IST" name="Default test" finished-at="2022-10-26T12:51:09 IST" duration-ms="100052">
+      <class name="test.ProjectNameLoginTest">
+        <test-method is-config="true" signature="addReport()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:49:29 IST" name="addReport" finished-at="2022-10-26T12:49:29 IST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReport -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:49:29 IST" name="openbrowser" finished-at="2022-10-26T12:49:53 IST" duration-ms="23645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="logintest()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:49:53 IST" name="logintest" finished-at="2022-10-26T12:50:24 IST" duration-ms="31346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="statusofResult(org.testng.ITestResult)[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:50:24 IST" name="statusofResult" finished-at="2022-10-26T12:50:24 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logintest status=SUCCESS method=ProjectNameLoginTest.logintest()[pri:0, instance:test.ProjectNameLoginTest@1189dd52] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusofResult -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:50:24 IST" name="openbrowser" finished-at="2022-10-26T12:50:38 IST" duration-ms="13398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="loginwithOTP()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:50:38 IST" name="loginwithOTP" finished-at="2022-10-26T12:50:39 IST" duration-ms="979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithOTP -->
+        <test-method is-config="true" signature="statusofResult(org.testng.ITestResult)[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:50:39 IST" name="statusofResult" finished-at="2022-10-26T12:50:39 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginwithOTP status=SUCCESS method=ProjectNameLoginTest.loginwithOTP()[pri:0, instance:test.ProjectNameLoginTest@1189dd52] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusofResult -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:50:39 IST" name="openbrowser" finished-at="2022-10-26T12:50:54 IST" duration-ms="15353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="signinwithgoogle()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:50:54 IST" name="signinwithgoogle" finished-at="2022-10-26T12:51:08 IST" duration-ms="13802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinwithgoogle -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:51:08 IST" name="flushReport" finished-at="2022-10-26T12:51:09 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="statusofResult(org.testng.ITestResult)[pri:0, instance:test.ProjectNameLoginTest@1189dd52]" started-at="2022-10-26T12:51:08 IST" name="statusofResult" finished-at="2022-10-26T12:51:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signinwithgoogle status=SUCCESS method=ProjectNameLoginTest.signinwithgoogle()[pri:0, instance:test.ProjectNameLoginTest@1189dd52] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusofResult -->
+      </class> <!-- test.ProjectNameLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
